@@ -9,13 +9,5 @@
 - Routes guards (client or server)
 - [INCOMING] auth from server
 
-### npm
-```bash
-npm install nuxt3-appwrite
-```
-### yarn
-```bash 
-yarn add nuxt3-appwrite
-```
 
 
